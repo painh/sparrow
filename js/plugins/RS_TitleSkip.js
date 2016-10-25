@@ -23,6 +23,7 @@ Imported.RS_TitleSkip = true;
           DataManager.setupNewGame();
           SceneManager.goto(Scene_Map);
           Window_TitleCommand.initCommandPosition();
+          Graphics._switchFPSMeter();
       }
       this.updateDocumentTitle();
   };

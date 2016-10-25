@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"SV_IRISE","characterIndex":0,"characterName":"custom1","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"custom1","traits":[{"code":43,"dataId":11,"value":1}],"initialLevel":1,"maxLevel":99,"name":"이리세","nickname":"파티의 방패","note":"","profile":""},
+{"id":1,"battlerName":"SV_IRISE","characterIndex":0,"characterName":"custom1","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"custom1","traits":[{"code":43,"dataId":11,"value":1}],"initialLevel":1,"maxLevel":99,"name":"이리세","nickname":"파티의 방패","note":" <Passive State: 11>","profile":""},
 {"id":2,"battlerName":"SV_KAIDO","characterIndex":2,"characterName":"custom1","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"custom1","traits":[],"initialLevel":1,"maxLevel":99,"name":"카이도","nickname":"닌자","note":"","profile":""},
 {"id":3,"battlerName":"SVN_YUUBA","characterIndex":3,"characterName":"custom1","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"custom1","traits":[],"initialLevel":1,"maxLevel":99,"name":"유우바","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"SV_SEORIN","characterIndex":1,"characterName":"custom1","classId":6,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"custom1","traits":[],"initialLevel":1,"maxLevel":99,"name":"서린","nickname":"","note":"","profile":""}
+{"id":4,"battlerName":"SV_SEORIN","characterIndex":1,"characterName":"custom1","classId":6,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"custom1","traits":[],"initialLevel":1,"maxLevel":99,"name":"서린","nickname":"","note":" <Passive State: 12>","profile":""}
 ]
